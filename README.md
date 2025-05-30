@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is MD NAZMUL HASAN FAHIM and I'm a student of software engineering, from Sylhet,Bangladesh</h2>
+<h2 align="left">Assalamualaikum!
+  My name is MD NAZMUL HASAN FAHIM and I'm a student of software engineering at Metropolitan politan University, Bangladesh.I am  from Sylhet,Bangladesh</h2>
 
 ###
 
@@ -11,7 +12,8 @@
 
 ###
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/222/222023.gif"  />
+<img align="right" height="" src="https://giffiles.alphacoders.com/222/222023.gif"  />
+>
 
 ###
 
@@ -60,8 +62,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nazmulfahim3010/nazmulfahim3010/output/snake.svg" alt="Snake animation" />
 
 ###
