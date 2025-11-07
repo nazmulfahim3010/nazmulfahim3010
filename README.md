@@ -1,5 +1,5 @@
 <h2 align="left">Assalamualaikum!
-  My name is NAZMUL HASAN FAHIM and I'm a student of software engineering at Metropolitan politan University, Bangladesh.I am  from Sylhet,Bangladesh</h2>
+  My name is NAZMUL HASAN FAHIM, and I'm a student of software engineering at Metropolitan University, Bangladesh. I am  from Sylhet , Bangladesh</h2>
 
 ###
 
